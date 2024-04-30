@@ -1,0 +1,6 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "[python]": {
+        "editor.defaultFormatter": "mikoz.autoflake-extension"
+    }
+}
