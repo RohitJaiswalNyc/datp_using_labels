@@ -1,6 +1,1 @@
-"# datp_using_labels_as_goals_targets_and_inputs" 
-"# datp_using_labels_as_goals_targets_and_inputs" 
-"# datp_using_labels_as_goals_targets_and_inputs" 
-"# datp_using_labels_as_goals_targets_and_inputs" 
-"# datp_using_labels" 
-"# datp_using_labels" 
+Used Just encoder of transformer and all the targets, goals and inputs are labels.
