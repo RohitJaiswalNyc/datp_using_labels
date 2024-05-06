@@ -1,1 +1,1 @@
-Used Just encoder of transformer and all the targets, goals and inputs are labels.
+<h1> Datp using labels as input </h1>
